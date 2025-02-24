@@ -1,0 +1,5 @@
+crawl_site:
+  description: "Lancer un crawl Screaming Frog pour analyser un site Shopify."
+  expected_output: "Un fichier CSV contenant les résultats du crawl SEO."
+  agent: seo_crawler
+
